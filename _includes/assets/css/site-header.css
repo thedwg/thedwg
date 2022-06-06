@@ -4,7 +4,7 @@
   align-items: center;
   justify-content: space-between;
   padding: 15px;
-  border-top: 0px solid var(--color-secondary);
+  border-top: 0px solid var(--color-text-alt);
 }
 
 @media (min-width: 1024px) {
